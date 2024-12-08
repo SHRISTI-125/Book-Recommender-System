@@ -29,9 +29,10 @@ A machine learning-powered book recommendation system that suggests books using 
 </ul>
 
 ## 🖥️ Results
+First Page
 ![First Page](https://github.com/user-attachments/assets/55c0f034-2b9d-4e63-a061-4b2aeb98a99c)
 
-
+Recommendation Page
 ![Recommendation Page](https://github.com/user-attachments/assets/207f3786-7fae-48f1-9b1a-59ab1e50d421)
 
 
