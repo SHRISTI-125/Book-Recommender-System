@@ -33,6 +33,7 @@ First Page
 ![First Page](https://github.com/user-attachments/assets/55c0f034-2b9d-4e63-a061-4b2aeb98a99c)
 
 Recommendation Page
-![Recommendation Page](https://github.com/user-attachments/assets/095d9912-beea-41a8-baa0-ef1bd86a4e4f)
+
+![Recommendation Page](https://github.com/user-attachments/assets/8cb639be-b2e4-4e0e-80dd-3f26e2e502d0)
 
 
