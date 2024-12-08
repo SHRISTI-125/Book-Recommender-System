@@ -10,8 +10,9 @@ A machine learning-powered book recommendation system that suggests books using 
 </ul>
 
 # 🛠️ Technologies Used
+![Numpy](https://img.shields.io/badge/Numpy-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <ul>
-  <li>Python</li>
+![Numpy](https://img.shields.io/badge/Numpy-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   <li>Pandas</li>
   <li>Numpy</li>
   <li>Scikit-learn</li>
