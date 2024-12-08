@@ -10,14 +10,12 @@ A machine learning-powered book recommendation system that suggests books using 
 </ul>
 
 # 🛠️ Technologies Used
-![Numpy](https://img.shields.io/badge/Numpy-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-<ul>
-![Numpy](https://img.shields.io/badge/Numpy-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  <li>Pandas</li>
-  <li>Numpy</li>
-  <li>Scikit-learn</li>
-  <li>Flask</li>
-</ul>
+![Pandas](https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=#00008B)
+<br><img src = "https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="60px">
+  <img src = "https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png" width="60px">
+  <img src = "https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" width="60px">
+  <img src = "https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" width="60px">
+
 
 ## 🎯 Recommendation Approaches
 1️⃣ Popularity-Based Recommendations
