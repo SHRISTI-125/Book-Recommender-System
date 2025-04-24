@@ -16,6 +16,10 @@ A machine learning-powered book recommendation system that suggests books using 
   <img src = "https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png" width="60px">
   <img src = "https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" width="60px">
 
+  ### 📁 Large Files
+
+Download `books.pkl` from [Google Drive](https://drive.google.com/file/d/1PpSR4PbEtQnCD5f-fLLkQORkrgKZ_OAl/view?usp=sharing)
+
 
 ## 🎯 Recommendation Approaches
 1️⃣ Popularity-Based Recommendations
