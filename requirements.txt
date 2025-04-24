@@ -2,3 +2,5 @@ pandas
 numpy
 flask
 gunicorn
+gdown
+scikit-learn
