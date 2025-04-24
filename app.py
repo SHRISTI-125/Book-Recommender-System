@@ -4,6 +4,16 @@ import numpy as np
 
 import pandas as pd
 
+import os
+import gdown
+BOOKS_URL = "https://drive.google.com/file/d/1PpSR4PbEtQnCD5f-fLLkQORkrgKZ_OAl/view?usp=sharing"
+BOOKS_FILE = "books.pkl"
+
+if not os.path.exists(BOOKS_FILE):
+    print("Downloading books.pkl from Google Drive...")
+    gdown.download(BOOKS_URL, BOOKS_FILE, quiet=False)
+
+
 # Open the pickle file
 with open('popular.pkl', 'rb') as f:
     try:
