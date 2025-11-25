@@ -31,6 +31,9 @@ Download `books.pkl` from [Google Drive](https://drive.google.com/file/d/1PpSR4P
   <li>Ranks books based on metrics like average rating, number of votes, or author.</li>
 </ul>
 
+## 🌐 Live Demo
+[Shristi's Book Recommender System](https://book-recommender-system-1-00gt.onrender.com)
+
 ## 🖥️ Results
 First Page
 ![First Page](https://github.com/user-attachments/assets/55c0f034-2b9d-4e63-a061-4b2aeb98a99c)
